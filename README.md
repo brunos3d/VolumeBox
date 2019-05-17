@@ -19,6 +19,6 @@ Use as a tween, easy as the UI elements. Create trigger areas quickly.
 	- OnTriggerExit (Once).
 
 <p align="center">
-	<img height="150" src="images/image1.png">
-	<img height="150" src="images/image2.png">
+	<img height="300" src="images/image1.png">
+	<img height="300" src="images/image2.png">
 </p>
